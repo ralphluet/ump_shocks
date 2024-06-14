@@ -1,4 +1,4 @@
-# ump_shocks
+# Unconventional Monetary Shocks 
 
 This code and the resulting data were generated for Bügel, Hidalgo and Luetticke (2024). So if you use it for your own work, please cite the accompanying paper.
 
